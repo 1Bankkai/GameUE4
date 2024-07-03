@@ -6,3 +6,5 @@ This game you can download as a disk Yandex and Google drive.
 Yandex drive - https://clck.ru/3Bf2DH
 
 Google drive - https://clck.ru/3Bf2CN
+
+Note: To test the game, you must have the latest version of unreal engine 4 installed.
